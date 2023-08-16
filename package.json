@@ -1,7 +1,11 @@
 {
   "name": "Ukidelly",
   "displayName": "Modern Dracular Black Color Theme",
-  "description": "My own theme",
+  "description": "Dracular Color Scheme with vscode modern dark theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UkiDelly/Modern-Dracular-Black-Color-Theme.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
