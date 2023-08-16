@@ -1,5 +1,6 @@
 {
   "name": "Ukidelly",
+  "publisher": "UkiDelly",
   "displayName": "Modern Dracular Black Color Theme",
   "description": "Dracular Color Scheme with vscode modern dark theme",
   "repository": {
@@ -16,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Custom Theme",
+        "label": "Modern Dracular Black Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/modern-dracular-black-color-theme.json"
       }
