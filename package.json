@@ -1,0 +1,21 @@
+{
+  "name": "Ukidelly",
+  "displayName": "Modern Dracular Black Color Theme",
+  "description": "My own theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Custom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/modern-dracular-black-color-theme.json"
+      }
+    ]
+  }
+}
