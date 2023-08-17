@@ -1,9 +1,21 @@
 # Change Log
 
-All notable changes to the "Ukidelly" extension will be documented in this file.
+<p style="font-size: 25px; font-weight: bold" ></p>
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- First Release
 
-## [Unreleased]
+<br/>
 
-- Initial release
+<p style="font-size: 25px; font-weight: bold" >[0.0.2] - 2023.08.17</p>
+
+<p style="font-size: 20px; font-weight: bold" >FIX</p>
+
+- Change Ladel name
+
+<br/>
+<p style="font-size: 25px; font-weight: bold" >[0.0.3] - 2023.08.17</p>
+
+<p style="font-size: 20px; font-weight: bold" >ADD</p>
+
+- Add Html,Css color set
+- Add Markdown heading color
