@@ -877,7 +877,7 @@
       "name": "[VSCODE-CUSTOM] Markdown heading Punctuation Definition",
       "scope": "punctuation.definition.heading.markdown",
       "settings": {
-        "foreground": "#feffde"
+        "foreground": "#ee81c3"
       }
     },
     {
@@ -889,7 +889,7 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown heading setext",
-      "scope": "markup.heading.setext",
+      "scope": ["markup.heading.setext","meta.paragraph.markdown"],
       "settings": {
         "foreground": "#cccccc"
       }
