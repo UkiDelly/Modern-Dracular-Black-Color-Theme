@@ -16,7 +16,8 @@
       "foreground": "#F2B368",
       "fontStyle": "italic"
     },
-    "keyword": "#ff79c6"
+    "keyword": "#ff79c6",
+    
   },
   "tokenColors": [
     {
@@ -119,7 +120,7 @@
     },
     {
       "name": "Text",
-      "scope": "variable.parameter.function",
+      "scope": ["variable.parameter.function","text.html.derivative"],
       "settings": {
         "foreground": "#cccccc"
       }
@@ -548,7 +549,7 @@
     },
     {
       "name": "Variables",
-      "scope": "variable",
+      "scope": ["variable"],
       "settings": {
         "foreground": "#feffde"
       }
@@ -1069,7 +1070,7 @@
     },
     {
       "name": "laravel blade tag",
-      "scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
+      "scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade, ",
       "settings": {
         "foreground": "#ee81c3"
       }
@@ -1708,7 +1709,8 @@
     {
       "name": "comments",
       "scope": [
-        "beginning.punctuation.definition.list.markdown.xi"
+        "beginning.punctuation.definition.list.markdown.xi",
+        
       ],
       "settings": {
         "foreground": "#7f848e"
@@ -1845,6 +1847,22 @@
       "name": "markup.italic.markdown",
       "scope": "markup.italic.markdown",
       "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Html",
+      "scope": ["entity.name.tag.html", "entity.name.tag.css","keyword.other.unit.px.css"],
+      "settings": {
+        "foreground": "#ff79c6",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Html / CSS attribue",
+      "scope": ["entity.other.attribute-name.html","support.type.property-name.css"],
+      "settings": {
+        "foreground": "#F2B368",
         "fontStyle": "italic"
       }
     }
