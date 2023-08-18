@@ -3,11 +3,15 @@
   "publisher": "UkiDelly",
   "displayName": "Modern Dracular Black Color Theme",
   "description": "Dracular Color Scheme with vscode modern dark theme",
+  "author": {
+    "name": "Dae Hyeon Song"
+  },
+  "maintainers": ["ukidelly"],
   "repository": {
     "type": "git",
     "url": "https://github.com/UkiDelly/Modern-Dracular-Black-Color-Theme.git"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.81.0"
   },
