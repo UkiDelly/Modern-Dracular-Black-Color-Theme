@@ -3,6 +3,17 @@
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
+    "source" : {
+      "foreground": "#feffde"
+    },
+    "class": "#5DD8FF",
+    "enum": "#5DD8FF",
+    "function": "#3eff45",
+    "method": "#3eff45",
+    "variable": "#feffde",
+    "number": "#bd93f9",
+    "operator": "#ff79c6",
+    
     "enumMember": {
       "foreground": "#bd93f9"
     },
@@ -16,8 +27,7 @@
       "foreground": "#F2B368",
       "fontStyle": "italic"
     },
-    "keyword": "#ff79c6",
-    
+    "keyword": "#FC5FA3",
   },
   "tokenColors": [
     {
@@ -1864,6 +1874,16 @@
       "settings": {
         "foreground": "#F2B368",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "annotations",
+      "scope": [
+        "storage.type.annotation.dart"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#D0A8FF"
       }
     }
   ],
