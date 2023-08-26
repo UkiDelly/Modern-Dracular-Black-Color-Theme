@@ -1,5 +1,12 @@
 # Change Log
 
+<p style="font-size: 25px; font-weight: bold" >[0.0.5] - 2023.08.27</p>
+<p style="font-size: 20px; font-weight: bold" >UPDATE</p>
+
+- Corresponds to ts, js, and tsx
+- Change the `string` color
+
+
 <p style="font-size: 25px; font-weight: bold" >[0.0.4] - 2023.08.18</p>
 <p style="font-size: 20px; font-weight: bold" >UPDATE</p>
 

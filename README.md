@@ -1,4 +1,22 @@
-<h1 align="center">Modern Dracular Black Color Theme</h1>
-<p align="center">Dracular Color Scheme with vscode modern dark theme</p>
+<h1 style="text-align: center" >Modern Dracular Black Color Theme</h1>
 
-This is a Theme of mixing of Dracular Color Scheme with vscode modern dark theme
+<p style="font-size: 20px" >Dracular Color Scheme with vscode modern dark theme</p>
+
+This is a Theme of mixing of Dracular Color Scheme with vscode modern dark theme.
+
+## [Screen Shots]
+
+![Dart](/images/image.png)
+
+![TypeScript](/images/image-1.png)
+
+### Corresponding Language
+
+- Dart
+- TypeScript
+- JavaScript
+- CSS
+- HTML
+- Markdown
+- Python
+- TSX
