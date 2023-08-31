@@ -302,7 +302,7 @@
     },
     {
       "name": "CSS/SCSS/LESS Operators",
-      "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
+      "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less,keyword.other.unit.percentage.css",
       "settings": {
         "foreground": "#FC5FA3"
       }
@@ -358,7 +358,7 @@
     },
     {
       "name": "js/ts json",
-      "scope": ["support.constant.json","entity.name.label.ts"],
+      "scope": ["support.constant.json","entity.name.label.ts","keyword.control.export.ts","keyword.control.flow.ts"],
       "settings": {
         "foreground": "#bd93f9"
       }
@@ -374,6 +374,8 @@
         "keyword.control.conditional.ts",
         "keyword.control.loop.ts",
         "storage.type.ts",
+        "keyword.control.import.ts",
+        "keyword.control.from.ts"
       ],
       "settings": {
         "foreground": "#FC5FA3",
