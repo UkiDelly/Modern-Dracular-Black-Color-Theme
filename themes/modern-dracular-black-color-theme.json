@@ -13,6 +13,7 @@
     "variable": "#feffde",
     "number": "#bd93f9",
     "operator": "#FC5FA3",
+    "property": "#FD5656",
     
     "enumMember": {
       "foreground": "#bd93f9"
@@ -358,7 +359,14 @@
     },
     {
       "name": "js/ts json",
-      "scope": ["support.constant.json","entity.name.label.ts","keyword.control.export.ts","keyword.control.flow.ts"],
+      "scope": [
+        "support.constant.json",
+        "entity.name.label.ts",
+        "keyword.control.export.ts",
+        "keyword.control.export.js",
+        "keyword.control.flow.ts",
+        "keyword.control.flow.js",
+      ],
       "settings": {
         "foreground": "#bd93f9"
       }
@@ -375,7 +383,9 @@
         "keyword.control.loop.ts",
         "storage.type.ts",
         "keyword.control.import.ts",
-        "keyword.control.from.ts"
+        "keyword.control.import.js",
+        "keyword.control.from.ts",
+        "keyword.control.from.js",
       ],
       "settings": {
         "foreground": "#FC5FA3",
@@ -1857,7 +1867,8 @@
       "name": "Python Keyword Control",
       "scope": "keyword.control.import.python,keyword.control.flow.python",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic",
+        "foreground": "#FC5FA3"
       }
     },
     {
