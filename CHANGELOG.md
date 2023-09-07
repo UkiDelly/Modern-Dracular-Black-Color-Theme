@@ -1,5 +1,15 @@
 # Change Log
 
+<p style="font-size: 25px; font-weight: bold" >[0.0.7] - 2023.09.07</p>
+<p style="font-size: 20px; font-weight: bold" >UPDATE</p>
+
+- Change the `import` , `from`, `export` keyword color in `JavaScript`
+- Change Python `flow` keyword color
+
+<br>
+
+---
+
 <p style="font-size: 25px; font-weight: bold" >[0.0.6] - 2023.09.01</p>
 <p style="font-size: 20px; font-weight: bold" >UPDATE</p>
 
@@ -7,6 +17,8 @@
 - Change the `%` color in `CSS`
 - Change the `export` and `return` keyword color in `TypeScript`
 - Change the `import`, `from` keyword color in `TypeScript`
+
+<br>
 
 ---
 
@@ -16,12 +28,16 @@
 - Corresponds to `TypeScript`, `JavaScript`, and `tsx`
 - Change the `string` color
 
+<br>
+
 ---
 
 <p style="font-size: 25px; font-weight: bold" >[0.0.4] - 2023.08.18</p>
 <p style="font-size: 20px; font-weight: bold" >UPDATE</p>
 
 - Change color of `class`,`enum` and `operator`
+
+<br>
 
 ---
 
@@ -32,6 +48,8 @@
 - Add Html,Css color set
 - Add Markdown heading color
 
+<br>
+
 ---
 
 <br>
@@ -39,6 +57,8 @@
 <p style="font-size: 20px; font-weight: bold" >FIX</p>
 
 - Change Label name
+
+<br>
 
 ---
 
