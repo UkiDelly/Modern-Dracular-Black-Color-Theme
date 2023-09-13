@@ -1,5 +1,14 @@
 # Change Log
 
+<p style="font-size: 25px; font-weight: bold" >[0.0.8] - 2023.09.13</p>
+<p style="font-size: 20px; font-weight: bold" >UPDATE</p>
+
+- Change the editor's black color to comfortable black
+
+<br>
+
+---
+
 <p style="font-size: 25px; font-weight: bold" >[0.0.7] - 2023.09.07</p>
 <p style="font-size: 20px; font-weight: bold" >UPDATE</p>
 
