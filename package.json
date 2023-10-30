@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/UkiDelly/Modern-Dracular-Black-Color-Theme.git"
   },
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.81.0"
   },
